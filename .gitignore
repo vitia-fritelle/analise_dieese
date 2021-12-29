@@ -1,0 +1,10 @@
+# files
+.env
+*.png
+
+# dependecies
+rc-env/
+.ipynb_checkpoints/
+
+# miscellaneous
+**/__pycache__
