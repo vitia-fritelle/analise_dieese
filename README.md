@@ -24,7 +24,7 @@ Fiz uma análise para saber se o salário mínimo necessário calculado pelo
 DIEESE de fato é correlacionado com o IPCA, isto é, se ele consegue 
 acompanhar a inflação. 
 
-![grafico_indicador](indicador.png)
+![grafico_indicador](.\assets\img\indicador.png)
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 

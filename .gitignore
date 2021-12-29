@@ -1,6 +1,5 @@
 # files
 .env
-*.png
 
 # dependecies
 rc-env/
